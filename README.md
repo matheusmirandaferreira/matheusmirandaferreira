@@ -1,8 +1,8 @@
 # Hy👋, I'm Matheus de Miranda Ferreira
 - 🔭 I am currently working on my knowledge and in @Essencia.
-- 🌱 I’m currently learning React Native.
-- 🤔 I’m looking for help with ReactJS, React Native and your Context API.
-- 💬 Ask me about HTML5, CSS3 and JavaScript.
+- 🌱 I’m currently learning Flutter.
+- 🤔 I’m looking for help with NodeJS.
+- 💬 Ask me about HTML5, CSS3, JavaScript, ReactJS and React Native.
 <!--
 **matheusmirandaferreira/matheusmirandaferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
